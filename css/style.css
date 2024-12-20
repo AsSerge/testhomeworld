@@ -1,4 +1,5 @@
 /* All styles */
 body{
-  color: red
+  color: red;
+  max-width: 80%;
 }
