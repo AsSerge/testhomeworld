@@ -3,3 +3,6 @@ body{
   color: red;
   max-width: 80%;
 }
+p{
+    font-weight: 700;
+}
